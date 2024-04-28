@@ -35,10 +35,17 @@ https://gitcode.com/anuraghazra/github-readme-stats/overview?utm_source=csdn_git
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Nahida-aa&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
 
 <!--
+https://gitcode.com/DenverCoder1/github-readme-streak-stats/overview?utm_source=csdn_github_accelerator&isLogin=1
+-->
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Nahida-aa&theme=ambient-gradient&hide_border=true" alt="GitHub Streak" /></a>
+
+<!--
 https://gitcode.com/Ashutosh00710/github-readme-activity-graph/overview?utm_source=csdn_github_accelerator&isLogin=1
 -->
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Nahida-aa&theme=github-compact&hide_border=true&area=true" />
 
+<!-- WakaTime -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Nahida-aa&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text={TITLE}&fontSize=90&fontAlign=50&fontAlignY=70&desc={SUB_TITLE}&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
