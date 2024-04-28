@@ -32,10 +32,15 @@ https://gitcode.com/DenverCoder1/readme-typing-svg/overview?utm_source=csdn_gith
 </p>
 
 <p align="center">
-<div class="responsive-table">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nahida-aa&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
-  <img align="center" src="https://streak-stats.demolab.com?user=Nahida-aa&theme=shadow-purple&hide_border=true" alt="GitHub Streak" />
-</div>
+<!-- 3
+https://gitcode.com/anuraghazra/github-readme-stats/overview?utm_source=csdn_github_accelerator&isLogin=1
+-->
+<img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=Nahida-aa&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
+
+<!-- 4 连续贡献数据记录
+https://gitcode.com/DenverCoder1/github-readme-streak-stats/overview?utm_source=csdn_github_accelerator&isLogin=1
+-->
+<img align="center" width="49%" src="https://streak-stats.demolab.com?user=Nahida-aa&theme=shadow-purple&hide_border=true" alt="GitHub Streak" />
 <br />
 <!-- 5 贡献时序图
 https://gitcode.com/Ashutosh00710/github-readme-activity-graph/overview?utm_source=csdn_github_accelerator&isLogin=1
