@@ -49,6 +49,22 @@ https://gitcode.com/anuraghazra/github-readme-stats/overview?utm_source=csdn_git
 -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Nahida_aa&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 
+<!-- 7 languages rate 同 3 -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahida-aa&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+
+<!-- 8 技术栈图标展示
+https://gitcode.com/tandpfun/skill-icons/overview?utm_source=csdn_github_accelerator&isLogin=1
+-->
+<img align="center" src="https://skillicons.dev/icons?i=py,c,cpp&theme=light" />
+
+<!-- 9 小徽章 
+跳转其他平台主页
+https://gitcode.com/badges/shields/overview?utm_source=csdn_github_accelerator&isLogin=1
+统计访问
+https://gitcode.com/antonkomarev/github-profile-views-counter/overview?utm_source=csdn_github_accelerator&isLogin=1
+-->
+<img src="https://komarev.com/ghpvc/?username=Nahida-aa&abbreviated=true" />
+
 <!-- 同 1 -->
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text={TITLE}&fontSize=90&fontAlign=50&fontAlignY=70&desc={SUB_TITLE}&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
