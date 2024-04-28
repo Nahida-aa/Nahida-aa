@@ -45,7 +45,7 @@ https://gitcode.com/Ashutosh00710/github-readme-activity-graph/overview?utm_sour
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Nahida-aa&theme=github-compact&hide_border=true&area=true" />
 
 <!-- WakaTime -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Nahida-aa&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Nahida_aa&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text={TITLE}&fontSize=90&fontAlign=50&fontAlignY=70&desc={SUB_TITLE}&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
