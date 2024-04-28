@@ -40,7 +40,7 @@ https://gitcode.com/anuraghazra/github-readme-stats/overview?utm_source=csdn_git
 <!-- 4 连续贡献数据记录
 https://gitcode.com/DenverCoder1/github-readme-streak-stats/overview?utm_source=csdn_github_accelerator&isLogin=1
 -->
-<img align="center" width="400" src="https://streak-stats.demolab.com?user=Nahida-aa&theme=ambient-gradient&hide_border=true" alt="GitHub Streak" />
+<img align="center" width="400" src="https://streak-stats.demolab.com?user=Nahida-aa&theme=shadow-purple&hide_border=true" alt="GitHub Streak" />
 <br />
 <!-- 5 贡献时序图
 https://gitcode.com/Ashutosh00710/github-readme-activity-graph/overview?utm_source=csdn_github_accelerator&isLogin=1
