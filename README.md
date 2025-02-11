@@ -28,6 +28,9 @@ https://gitcode.com/DenverCoder1/readme-typing-svg/overview?utm_source=csdn_gith
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8923D4A7&random=false&width=435&lines=welcome+to+my+github+profile+page!" alt="Typing SVG" /></a>
 </p>
 
+- https://muskrat-more-happily.ngrok-free.app/
+- https://blog.Nahida-aa.us.kg
+
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
 <p align="center">
