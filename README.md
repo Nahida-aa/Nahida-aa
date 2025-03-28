@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 https://gitcode.com/kyechan99/capsule-render/overview?utm_source=csdn_github_accelerator&isLogin=1
 -->
 <p align="center">
+<!-- 波浪横幅 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=60&fontAlign=50&fontAlignY=30&desc=I%20am%20Nahida-aa!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" alt="Profile Image" />
 
 <!-- 2
