@@ -32,11 +32,6 @@ https://gitcode.com/DenverCoder1/readme-typing-svg/overview?utm_source=csdn_gith
 
 <!-- ![count](https://count.getloli.com/get/@Nahida-aa?theme=gelbooru&offset=0) -->
 
-- https://muskrat-more-happily.ngrok-free.app/
-- https://mdx-hub.vercel.app/docs/alg/enum
-- https://mdx-hub.vercel.app
-- https://blog.Nahida-aa.us.kg
-
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
 <p style="text-align: center;">
