@@ -49,14 +49,7 @@ https://gitcode.com/DenverCoder1/readme-typing-svg/overview?utm_source=csdn_gith
   -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nahida-aa&theme=github-compact&hide_border=true&area=true" />
   <br />
-  <!-- 6 coding time (WakaTime) 同 3
-  https://gitcode.com/anuraghazra/github-readme-stats/overview?utm_source=csdn_github_accelerator&isLogin=1
-  -->
-  <img style="text-align: center;" width="400px" src="https://github-readme-stats.vercel.app/api/wakatime?username=Nahida_aa&theme=transparent&hide_border=true&layout=compact&langs_count=30" />
 
-  <!-- 7 languages rate 同 3 -->
-  <img style="text-align: center;" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahida-aa&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=20" />
-  <br />
 </p>
 
 <p style="text-align: center;">
