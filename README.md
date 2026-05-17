@@ -35,10 +35,7 @@ https://gitcode.com/DenverCoder1/readme-typing-svg/overview?utm_source=csdn_gith
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
 <p style="text-align: center;">
-  <!-- 3
-  https://gitcode.com/anuraghazra/github-readme-stats/overview?utm_source=csdn_github_accelerator&isLogin=1
-  -->
-  <img style="text-align: center;"  width="400px" src="https://github-readme-stats.vercel.app/api?username=Nahida-aa&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" alt="GitHub Stats" />
+
   <!-- 4 连续贡献数据记录
   https://gitcode.com/DenverCoder1/github-readme-streak-stats/overview?utm_source=csdn_github_accelerator&isLogin=1
   -->
