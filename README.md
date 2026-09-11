@@ -27,7 +27,7 @@ https://gitcode.com/DenverCoder1/readme-typing-svg/overview?utm_source=csdn_gith
   <!-- 5 贡献时序图
   https://gitcode.com/Ashutosh00710/github-readme-activity-graph/overview?utm_source=csdn_github_accelerator&isLogin=1
   -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nahida-aa&theme=github-compact&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph-five-blond.vercel.app/graph?username=Nahida-aa&theme=github-compact&hide_border=true&area=true" />
   <br />
 
 </p>
